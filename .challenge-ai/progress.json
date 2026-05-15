@@ -1,0 +1,14 @@
+{
+  "challenge": "tokenization",
+  "version": "1.0",
+  "startedAt": "2026-04-24T00:00:00.000Z",
+  "checkpoints": {
+    "erc721-imports": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" },
+    "state-constructor": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" },
+    "minting": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" },
+    "overrides": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" },
+    "gas-wallets": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" },
+    "minting-exploring": { "status": "completed", "completedAt": "2026-04-24T00:00:00.000Z", "method": "answered" }
+  },
+  "currentCheckpoint": null
+}
